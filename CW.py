@@ -1,3 +1,6 @@
+# KEY: Need comments
+# Both problem solutions do not function. Test programs before submitting them
+
 def problem1():
     userInput = ""
     while(userInput != 'q'):
@@ -8,8 +11,11 @@ def problem1():
             if userInput == 'q' or 'Q':
                 print(SUM)
 
+# kEY: This function should call the do-the-math function andprint the result
 def problem2():
     userInput = input("Give me two numbers")
+    
+# KEY: This function should have returned a dictionary of results. See README
 def do_the_math(input):
     SUM = num1 + num2
     DIFFERENCE = num1 + num2

@@ -1,3 +1,6 @@
+### 0 POINTS
+### KEY: Solutions do not run successfully. Also test before submitting code.
+
 # Python Review: Functions Classwork
 
 ### Problem 1:
